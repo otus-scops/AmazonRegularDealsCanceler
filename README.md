@@ -1,0 +1,2 @@
+# AmazonRegularDealsCanceler
+Amazon.co.jpの定期お得便の初期選択を通常注文に変更します
